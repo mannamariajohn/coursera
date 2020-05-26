@@ -19,9 +19,9 @@ section {
 }
 
 .heading {
-    height:20px;
-    width: 70px;
-    position : relative;
+    height:40px;
+    width: 100px;
+    position: relative;
     border:1px solid black;
     color: black;
     font-size: 125%;
