@@ -19,13 +19,14 @@ section {
 }
 
 .heading {
-    height:40px;
-    width: 100px;
+    height:35px;
+    width: 90px;
+    text-align: center;
     position: relative;
     border:1px solid black;
     color: black;
     font-size: 125%;
-    padding: 5px 20px 5px 20px;
+    padding: 5px 10px 5px 10px;
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 10px;
