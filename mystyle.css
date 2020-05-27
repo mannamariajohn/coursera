@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+h1 {
+    color: black;
+    font-size: 175%;
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;    
+    background-color: palegreen;
+    
+    overflow: auto;
+    
+}
+p{
+  padding: 15px;
+}
+
+.heading {
+    height:35px;
+    width: 90px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    right: 0px;
+
+    border:1px solid black;
+    color: black;
+    font-size: 125%;
+    padding: 5px 10px 5px 10px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+    float:right;
+    
+    
+}
+
+/*ul {
+    clear: right;
+    width: 90%;
+}*/
+
+#chicken {
+    background-color: lightblue;
+}
+
+#beef {
+    background-color: lightyellow;
+}
+
+#sushi {
+    background-color: lavender;
+}
