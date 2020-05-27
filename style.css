@@ -18,7 +18,7 @@ section {
     
 }
 p{
-  padding: 20px;
+  padding: 15px;
 }
 
 .heading {
@@ -41,10 +41,10 @@ p{
     
 }
 
-ul {
+/*ul {
     clear: right;
     width: 90%;
-}
+}*/
 
 #chicken {
     background-color: lightblue;
