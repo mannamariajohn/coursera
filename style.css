@@ -15,7 +15,10 @@ section {
     background-color: palegreen;
     
     overflow: auto;
-    padding: 20px
+    
+}
+p{
+  padding: 20px;
 }
 
 .heading {
